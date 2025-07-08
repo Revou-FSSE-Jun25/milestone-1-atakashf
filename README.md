@@ -39,7 +39,7 @@ It includes sections about me, the services I offer, selected projects, and ways
 
 ## Getting Started
 
-You can access the deployed website here:  
+You can access the deployed website here:  https://revou-fsse-jun25.github.io/milestone-1-atakashf/
 
 
 To explore or run it locally:
