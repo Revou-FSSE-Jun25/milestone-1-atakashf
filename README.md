@@ -39,11 +39,11 @@ It includes sections about me, the services I offer, selected projects, and ways
 
 ## Getting Started
 
-You can access the deployed website here:  https://revou-fsse-jun25.github.io/milestone-1-atakashf/
-
+You can access the deployed website here: https://revou-fsse-jun25.github.io/milestone-1-atakashf/
 
 To explore or run it locally:
-1. Clone the repo:  https://github.com/atakashf/RevoU-Milestone1-Assignment.git
+
+1. Clone the repo: https://github.com/atakashf/RevoU-Milestone1-Assignment.git
 2. Open `index.html` in your browser.
 3. Navigate through each section via navbar or scroll.
 
@@ -52,6 +52,7 @@ To explore or run it locally:
 ## Contact
 
 Feel free to connect with me via:
+
 - [WhatsApp](https://wa.me/6285155388761)
 - [LinkedIn](https://linkedin.com/in/ataka-shafia-b06854327)
 - [GitHub](https://github.com/atakashf)
@@ -60,4 +61,3 @@ Feel free to connect with me via:
 ---
 
 > Created by Ataka Shafia – July 2025
-
